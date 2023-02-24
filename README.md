@@ -1,4 +1,9 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=D1B2FF&height=200&section=header&text=Heen_A&fontSize=70)
+
+# [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Heena)](https://github.com/LimHeena)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heena&layout=compact)](https://github.com/LimHeena/githubreadme-stats)
 
 <!--
 **LimHeena/LimHeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
