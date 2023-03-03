@@ -1,21 +1,17 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=D1B2FF&height=200&section=header&text=Heen_A&fontSize=70)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Heen_A&fontSize=70&fontColor=FFFFF0)
+
+<div align="center">
+✨SKILLS </div>
+<div align="center">
+
+
+<img src="https://img.shields.io/badge/Python-red?style=flat&logo=Python&logoColor=white">
+ </div>
+
+
 
 # [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Heena)](https://github.com/LimHeena)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heena&layout=compact)](https://github.com/LimHeena/githubreadme-stats)
 
-<!--
-**LimHeena/LimHeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
