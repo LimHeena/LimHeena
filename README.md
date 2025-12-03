@@ -16,8 +16,8 @@ Studying Natural Language Processing & Deep Learning & Review Helpfulness Predic
 - ```2025.05.23``` 지능정보시스템학회 2025 춘계학술대회 <strong> 최우수논문상 </strong>
 
 # Papers
-- 
-- 
+- **Lim, H.**, Park, S., Li, Q., Li, X., & Kim, J. Reducing Contextual Noise in Review-based Recommendation via Aspect Term Extraction and Attention Modeling. **Under Review**.
+- **Lim, H.**, Li, X., Li, Q., Park, S, & Kim, J. What Makes a Review Helpful? A Multimodal Prediction Model in E-Commerce. Electronic Commerce Research and Applications. **Under Review**.
 - **임희나**, 김다희, 정다윤, 박종화, 이청용, & 김재경. (2025). 소비자의 정보 처리 과정을 반영한 리뷰 유용성 예측 방법론 개발. 지능정보연구, 31(3), 79-100.
 - 박선우, 김지현, **임희나**, 윤지현, 이흠철, & 김재경. (2024). 아이템과의 관련성을 고려한 리뷰 기반 추천 시스템 개발. 지능정보연구, 30(3), 115-134.
 
