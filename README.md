@@ -14,6 +14,9 @@ Studying Natural Language Processing & Deep Learning & Review Helpfulness Predic
 # Awards
 - ```2025.11.01``` 한국경영과학회 2025 추계학술대회 <strong> 우수상 </strong>
 - ```2025.05.23``` 지능정보시스템학회 2025 춘계학술대회 <strong> 최우수논문상 </strong>
+- ```2023.06.30``` [멀티잇]서비스 산업 데이터분석가 취업캠프(Python) **최우수훈련생**
+- ```2023.06.30``` [멀티잇] 서비스 산업 데이터분석가 취업캠프(Python) 최종프로젝트 **우수상**
+- ```2023.05.04``` [멀티잇] 서비스 산업 데이터분석가 취업캠프(Python) 세미프로젝트 **최우수상**
 
 # Papers
 - **Lim, H.**, Park, S., Li, Q., Li, X., & Kim, J. Reducing Contextual Noise in Review-based Recommendation via Aspect Term Extraction and Attention Modeling. **Under Review**.
