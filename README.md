@@ -24,6 +24,13 @@ Studying Natural Language Processing & Deep Learning & Review Helpfulness Predic
 - **임희나**, 김다희, 정다윤, 박종화, 이청용, & 김재경. (2025). 소비자의 정보 처리 과정을 반영한 리뷰 유용성 예측 방법론 개발. 지능정보연구, 31(3), 79-100.
 - 박선우, 김지현, **임희나**, 윤지현, 이흠철, & 김재경. (2024). 아이템과의 관련성을 고려한 리뷰 기반 추천 시스템 개발. 지능정보연구, 30(3), 115-134.
 
+# Conference
+- **임희나**, 박선우, 이흠철, 이청용, 김재경. Integrating Coarse-and Fine-Grained Features for Review-Based Recommendation, 한국지능정보시스템학회 2025 추계학술대회, 수원, 2025.11.28
+- 박선우, **임희나**, 이흠철, 이청용, 김재경. Large Language Model-Based Personalized Aspect Extraction for Recommendation, 한국경영과학회 2025 추계학술대회, 서울, 2025.11.01
+- **임희나**, 박선우, 이흠철, 이청용, 김재경. Review-Based Recommender System Grounded in Dual-Process Theory, 한국경영과학회 2025 추계학술대회, 서울, 2025.11.01
+- 박선우, 이흠철, **임희나**, 이청용, 김재경. Multimodal Transformer-Based AI Model for Predicting Review Helpfulness with Review-Product Relevance, 한국지능정보시스템학회 2025 춘계학술대회, 천안, 2025.05.23
+- **임희나**, 박선우, 이흠철, 이청용, 김재경. Predicting the Helpfulness of Multimodal Reviews Using Central and Peripheral Cues in Reviews, 한국IT서비스학회 2025 춘계학술대회, 서울, 2025.05.14
+- **임희나**, 이흠철, 박선우, 이청용, 김재경, 리뷰의 중심 단서와 주변 단서를 이용한 멀티모달 리뷰의 유용성 예측, 한국경영과학회 2024 추계학술대회, 고양, 2024.11.08
 
 
 
