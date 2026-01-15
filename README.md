@@ -19,7 +19,7 @@ Studying Natural Language Processing & Deep Learning & Review Helpfulness Predic
 - ```2023.05.04``` [멀티잇] 서비스 산업 데이터분석가 취업캠프(Python) 세미프로젝트 **최우수상**
 
 # Papers
-- **Lim, H.**, Park, S., Li, Q., Li, X., & Kim, J. Reducing Contextual Noise in Review-based Recommendation via Aspect Term Extraction and Attention Modeling. **Under Review**.
+- **Lim, H.**, Li, X., Park, S., Li, Q., & Kim, J. (2026). Reducing contextual noise in review-based recommendation via aspect term extraction and attention modeling. Information Sciences, 123078.
 - **Lim, H.**, Li, X., Li, Q., Park, S, & Kim, J. What Makes a Review Helpful? A Multimodal Prediction Model in E-Commerce. Electronic Commerce Research and Applications. **Under Review**.
 - **임희나**, 김다희, 정다윤, 박종화, 이청용, & 김재경. (2025). 소비자의 정보 처리 과정을 반영한 리뷰 유용성 예측 방법론 개발. 지능정보연구, 31(3), 79-100.
 - 박선우, 김지현, **임희나**, 윤지현, 이흠철, & 김재경. (2024). 아이템과의 관련성을 고려한 리뷰 기반 추천 시스템 개발. 지능정보연구, 30(3), 115-134.
@@ -31,7 +31,6 @@ Studying Natural Language Processing & Deep Learning & Review Helpfulness Predic
 - 박선우, 이흠철, **임희나**, 이청용, 김재경. Multimodal Transformer-Based AI Model for Predicting Review Helpfulness with Review-Product Relevance, 한국지능정보시스템학회 2025 춘계학술대회, 천안, 2025.05.23
 - **임희나**, 박선우, 이흠철, 이청용, 김재경. Predicting the Helpfulness of Multimodal Reviews Using Central and Peripheral Cues in Reviews, 한국IT서비스학회 2025 춘계학술대회, 서울, 2025.05.14
 - **임희나**, 이흠철, 박선우, 이청용, 김재경, 리뷰의 중심 단서와 주변 단서를 이용한 멀티모달 리뷰의 유용성 예측, 한국경영과학회 2024 추계학술대회, 고양, 2024.11.08
-
 
 
 
