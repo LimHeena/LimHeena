@@ -20,7 +20,7 @@ Studying Natural Language Processing & Deep Learning & Review Helpfulness Predic
 
 # Papers
 - **Lim, H.**, Li, X., Park, S., Li, Q., & Kim, J. (2026). Reducing contextual noise in review-based recommendation via aspect term extraction and attention modeling. Information Sciences, 123078.
-- **Lim, H.**, Li, X., Li, Q., Park, S, & Kim, J. What Makes a Review Helpful? A Multimodal Prediction Model in E-Commerce. Electronic Commerce Research and Applications. **Under Review**.
+- **Lim, H.**, Park, S., Li, Q., Li, X., & Kim, J. (2026). What makes a review helpful? A multimodal prediction model in e-commerce. Electronic Commerce Research and Applications, 101586.
 - **임희나**, 김다희, 정다윤, 박종화, 이청용, & 김재경. (2025). 소비자의 정보 처리 과정을 반영한 리뷰 유용성 예측 방법론 개발. 지능정보연구, 31(3), 79-100.
 - 박선우, 김지현, **임희나**, 윤지현, 이흠철, & 김재경. (2024). 아이템과의 관련성을 고려한 리뷰 기반 추천 시스템 개발. 지능정보연구, 30(3), 115-134.
 
