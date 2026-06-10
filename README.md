@@ -12,6 +12,7 @@ Studying Natural Language Processing & Deep Learning & Review Helpfulness Predic
 - ```2024.03 ~ 2026.02``` 경희대학교 빅데이터응용학과 공학 석사 졸업
 
 # Awards
+- ```2026.05.28``` 지능정보시스템학회 2026 춘계학술대회 <strong> 최우수논문상 </strong>
 - ```2025.11.01``` 한국경영과학회 2025 추계학술대회 <strong> 우수상 </strong>
 - ```2025.05.23``` 지능정보시스템학회 2025 춘계학술대회 <strong> 최우수논문상 </strong>
 - ```2023.06.30``` [멀티잇]서비스 산업 데이터분석가 취업캠프(Python) **최우수훈련생**
