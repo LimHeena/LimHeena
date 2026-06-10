@@ -26,6 +26,7 @@ Studying Natural Language Processing & Deep Learning & Review Helpfulness Predic
 - 박선우, 김지현, **임희나**, 윤지현, 이흠철, & 김재경. (2024). 아이템과의 관련성을 고려한 리뷰 기반 추천 시스템 개발. 지능정보연구, 30(3), 115-134.
 
 # Conference
+- **임희나**, 박선우, 이흠철, 이청용, 김재경. From Coarse to Find: Multi-level Representation Learning for Review-based Recommendation with Large Language Models, 한국지능정보시스템학회 2026 춘계학술대회, 서울, 2026.05.28
 - **임희나**, 박선우, 이흠철, 이청용, 김재경. Integrating Coarse-and Fine-Grained Features for Review-Based Recommendation, 한국지능정보시스템학회 2025 추계학술대회, 수원, 2025.11.28
 - 박선우, **임희나**, 이흠철, 이청용, 김재경. Large Language Model-Based Personalized Aspect Extraction for Recommendation, 한국경영과학회 2025 추계학술대회, 서울, 2025.11.01
 - **임희나**, 박선우, 이흠철, 이청용, 김재경. Review-Based Recommender System Grounded in Dual-Process Theory, 한국경영과학회 2025 추계학술대회, 서울, 2025.11.01
